@@ -1,0 +1,3 @@
+interface:
+  display_name: "Review Uncommitted"
+  short_description: "Analyze for issues before committing"
