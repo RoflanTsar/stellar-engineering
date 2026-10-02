@@ -1,0 +1,3 @@
+interface:
+  display_name: "Review Codebase"
+  short_description: "Analyze codebase for architectural entropy"
