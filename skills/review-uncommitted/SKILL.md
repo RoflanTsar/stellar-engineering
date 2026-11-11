@@ -14,7 +14,7 @@ description: "Review uncommitted changes - identify bugs and broken logic, make 
     - Are there any better algorithms or formulas that might fit the task better? Is there a more optimal data layout? And so on.
     - Data safe? No unauthorized data loss?
 4. **Speed:** Find performance bottlenecks and opportunities for optimization. 
-    - Identify unnecessary allocations, repeated work (every frame/never sleep), expensive operations in hot paths, excessive copying, poor data structures, unbounded loops, bad scaling, unnecessary I/O or sync, cpu or disk stall, cache lack or misuse, etc. Look for:
+    - Identify unnecessary allocations, repeated work (every frame/never sleep), expensive operations in hot paths, excessive copying, poor data structures, unbounded loops, bad scaling, unnecessary I/O or sync, cpu or disk stall, cache lack or misuse, etc.
 5. **Code Quality:** Flag any duplicated code, dead code, fragile logic, suboptimal architecture, or structural decisions that will cause future technical debt.
     - Repo's file like "CODING_STANDARDS.md" or "engineering-standards.md" or "CONTRIBUTING.md" if exists. Make sure audited code quality meets requirements.
     - Similar code which can be merged into helpers.
