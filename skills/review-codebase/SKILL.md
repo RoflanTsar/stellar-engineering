@@ -41,3 +41,4 @@ Output all real issues based on their current severity, in markdown format like 
 **🟢 LOW: 6. ...**
 
 ...
+extremely thorough
